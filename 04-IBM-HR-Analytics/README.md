@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a Power BI dashboard of IBM Employee Attrition to answer questions about the data. The insights of the dashboard can be found in the results file.  This repository can be used as a starting point for anyone who wants to learn how to use Power BI to analyze data.
+This repository contains a Power BI dashboard of IBM Employee Attrition to answer questions about the data. This repository can be used as a starting point for anyone who wants to learn how to use Power BI to analyze data.
 
 ## Screenshot
 
@@ -37,4 +37,4 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/pavansu
 
 ## Conclusion
 
-The project was successful in answering the set of questions about the employee's performance and attrition patterns. The results of the project can be found in the <a href="https://github.com/avishek09/IBM-HR-Analytics/blob/main/results.txt">results.txt</a> file.
+The project was successful in answering the set of questions about the employee's performance and attrition patterns. 
