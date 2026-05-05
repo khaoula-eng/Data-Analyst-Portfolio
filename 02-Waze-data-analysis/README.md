@@ -1,4 +1,4 @@
-# 🚗 Waze Data Analytics Project
+# 🚗 Waze Data Analytics Project Using Python
 
 ## 📌 Project Overview
 
