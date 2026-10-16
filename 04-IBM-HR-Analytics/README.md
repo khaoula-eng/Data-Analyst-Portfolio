@@ -11,9 +11,9 @@ Dashboard Overview
 
 The report has two pages.
 
-1. Dashboard
+# 1. Dashboard
 
-KPI cards
+## KPI cards
 
 Total Employees
 Attrition (number of employees who left)
@@ -22,7 +22,7 @@ Average Age
 Average Monthly Salary
 Average Years at Company
 
-Visuals
+## Visuals
 
 Attrition by Department
 Attrition by Years at Company
@@ -31,7 +31,7 @@ Attrition by Salary Slab (Up to 5K, 5K–10K, 10K–15K, 15K+)
 Attrition by Job Level
 Attrition by Job Role and Job Satisfaction (matrix)
 
-Interactive filters
+## Interactive filters
 
 Department: Human Resources, Research & Development, Sales
 Gender: Female, Male
@@ -61,11 +61,11 @@ Build onboarding and engagement programs for early-career employees, since the f
 Offer career growth and training paths adapted to each educational background.
 Monitor gender differences in attrition and promote diversity and inclusion.
 
-## Tools & Technologies
-Tool	Usage
+# Tools & Technologies
+## Tool	Usage
 Power BI Desktop	Data modeling, visualization, report design
 Power Query	Data cleaning and transformation (e.g., salary slabs, age groups)
 DAX	KPI measures (attrition count, attrition rate, averages)
 # Dataset 
 Source: IBM HR Analytics Employee Attrition & Performance dataset (available on Kaggle)
-Main fields: Age, Attrition, Department, Education Field, Gender, Job Level, Job Role, Job Satisfaction, Monthly Income, Years at Company
+
