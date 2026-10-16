@@ -32,26 +32,7 @@ Age range slider (18–60)
 
 A summary page with the main findings and recommended actions. 
   
-<img width="1235" height="740" alt="image" src="https://github.com/user-attachments/assets/24ea933e-d9b9-45f9-ac68-81fface9b7c9" />
-
-# Key Insights
-
-- Employees who left the company were 37 years old on average.
-- Research & Development had the most departures, with 133 employees.
-- Most employees who left earned less than $5,000 per month (163 people, about 69% of attrition).
-- Attrition is highest in the first year at the company (25%), followed by year 2 (11%) and year 5 (9%).
-- By education field, most leavers had a Life Sciences background (89), then Medical (63) and Marketing (35).
-- Male employees had a higher attrition rate (17%) than female employees (14.8%).
-- R&D accounts for 56% of total attrition, Sales for 39% and HR for 5%.
-
-# Recommendations
-
-Put retention strategies in place for employees around 40 years old.
-Tackle attrition in Research & Development and Sales with department-specific actions.
-Improve compensation and benefits for lower salary ranges, and review pay scales regularly to stay competitive.
-Build onboarding and engagement programs for early-career employees, since the first year is the most critical.
-Offer career growth and training paths adapted to each educational background.
-Monitor gender differences in attrition and promote diversity and inclusion.
+<img width="1334" height="750" alt="image" src="https://github.com/user-attachments/assets/1e42e160-33f7-45c5-8273-cecc16c339dc" />
 
 # Tools & Technologies
 ## Tool	Usage
