@@ -1,8 +1,6 @@
 # IBM HR Analytics Dashboard
 
 
-
-## Screenshot
 An interactive Power BI dashboard that analyzes employee attrition with the IBM HR Analytics dataset. It shows who is leaving the company, when, and why, and turns those findings into concrete retention recommendations for HR teams.
 <img width="1225" height="686" alt="image" src="https://github.com/user-attachments/assets/1331b55b-d85b-4213-888e-16e72cd51820" />
 Objectives
