@@ -28,7 +28,7 @@ Department: Human Resources, Research & Development, Sales
 Gender: Female, Male
 Age range slider (18–60)
 
-2. Insights & Recommendations
+# Insights & Recommendations
 
 A summary page with the main findings and recommended actions. 
   
