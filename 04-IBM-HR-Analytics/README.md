@@ -2,33 +2,24 @@
 
 
 An interactive Power BI dashboard that analyzes employee attrition with the IBM HR Analytics dataset. It shows who is leaving the company, when, and why, and turns those findings into concrete retention recommendations for HR teams.
+
 <img width="1225" height="686" alt="image" src="https://github.com/user-attachments/assets/1331b55b-d85b-4213-888e-16e72cd51820" />
-Objectives
-Monitor key HR indicators: headcount, attrition, attrition rate, average age, salary and tenure
-Find the main factors behind attrition: department, tenure, salary, education, job level, gender and age
-Give HR decision-makers a clear, filterable view to support retention strategies
-Dashboard Overview
 
-The report has two pages.
+## Objectives
 
-# 1. Dashboard
+- Monitor key HR indicators: headcount, attrition, attrition rate, average age, salary and tenure
+- Find the main factors behind attrition: department, tenure, salary, education, job level, gender and age
+- Give HR decision-makers a clear, filterable view to support retention strategies
+
+# Dashboard Overview
 
 ## KPI cards
 
-Total Employees
-Attrition (number of employees who left)
-Attrition Rate
-Average Age
-Average Monthly Salary
-Average Years at Company
+Total Employees, Attrition (number of employees who left), Attrition Rate, Average Age, Average Monthly Salary and Average Years at Company
 
 ## Visuals
 
-Attrition by Department
-Attrition by Years at Company
-Attrition by Education Field
-Attrition by Salary Slab (Up to 5K, 5K–10K, 10K–15K, 15K+)
-Attrition by Job Level
+Attrition by Department, Attrition by Years at Company, Attrition by Education Field, Attrition by Salary Slab (Up to 5K, 5K–10K, 10K–15K, 15K+), Attrition by Job Level and 
 Attrition by Job Role and Job Satisfaction (matrix)
 
 ## Interactive filters
@@ -36,6 +27,7 @@ Attrition by Job Role and Job Satisfaction (matrix)
 Department: Human Resources, Research & Development, Sales
 Gender: Female, Male
 Age range slider (18–60)
+
 2. Insights & Recommendations
 
 A summary page with the main findings and recommended actions. 
